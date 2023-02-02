@@ -3,4 +3,4 @@
 a = input('Введіть будь яке слово: ')
 b = input('Введіть будь яке число: ')
 print(a, b, sep=', ')
-print()
+print("added")
